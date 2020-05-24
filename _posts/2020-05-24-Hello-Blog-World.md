@@ -2,7 +2,7 @@
 layout: post
 title: Hello Blog World
 subtitle: Start Record Life 
-cover-img: /assets/img/cover/hello_world.jpg
+cover-img: /assets/img/cover/hello_world.png
 tags: [essay, book]
 ---
 
