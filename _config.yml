@@ -12,10 +12,11 @@ author: Jingwei·Li
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Blogs: ""
   Portfolio:
     - Art Work: 
     - Photography: "https://unsplash.com/@faylee"
+  About Me: "aboutme"
 
 # --- Logo --- #
 
@@ -75,13 +76,13 @@ excerpt_length: 50
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#191919"
 navbar-text-col: "#404040"
 navbar-border-col: "#EAEAEA"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#F5F5F5"
+footer-col: "#191919"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
