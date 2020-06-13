@@ -1,13 +1,10 @@
 ---
 layout: page
+title: Blogs
+subtitle: Time Index 
 ---
 
-<!-- {{ content }}
- -->
-
-<!-- most recent blogs -->
-
-<!-- {% assign posts = paginator.posts | default: site.posts %}
+{% assign posts = paginator.posts | default: site.posts %}
 
 <div class="posts-list">
   {% for post in posts %}
@@ -75,4 +72,4 @@ layout: page
   </li>
   {% endif %}
 </ul>
-{% endif %} -->
+{% endif %}

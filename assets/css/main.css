@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: Bitter, "Apple SD Gothic Neo", AppleGothic, NanumBarunGothic, "Malgun Gothic", Dotum, sans-serif;
   font-size: 1.125rem;
   color: #FFFFFF;
   position: relative;
@@ -375,8 +375,8 @@ img {
 
 footer {
   padding: 1.875rem 0;
-  border-top: 1px #EAEAEA solid;
-  margin-top: 3.125rem;
+  /*border-top: 1px #EAEAEA solid;*/
+  margin-top: 2rem;
   font-size: 0.875rem;
   background-color: {{ site.footer-col | default: "#F5F5F5" }};
   {% if site.footer-img %}
@@ -396,7 +396,7 @@ footer a {
 footer .list-inline {
   margin: 0;
   padding: 0;
-  margin-bottom: 1.875rem;
+  margin-bottom: 1.25rem;
 }
 footer .copyright {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;

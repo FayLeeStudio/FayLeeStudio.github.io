@@ -12,7 +12,7 @@ author: Jingwei·Li
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Blogs: ""
+  Blogs: "blogs"
   Portfolio:
     - Art Work: 
     - Photography: "https://unsplash.com/@faylee"
@@ -40,7 +40,6 @@ round-avatar: true
 social-network-links:
   email: "imjingweilee@gmail.com"
   github: FayLeeStudio
-  steam: fay_lee
   rss: false
 #  reddit: yourname
 #  linkedin: daattali
@@ -82,9 +81,9 @@ navbar-border-col: "#111111"
 page-col: "#191919"
 link-col: "#008AFF"
 hover-col: "#e1a87a"
-footer-col: "#111111"
+footer-col: "#191919"
 footer-text-col: "#ffffff"
-footer-link-col: "#404040"
+footer-link-col: "#191919"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -204,6 +203,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
-# Theme
-# theme: jekyll-theme-midnight
