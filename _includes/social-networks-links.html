@@ -1,4 +1,4 @@
-<ul class="list-inline text-center footer-links">
+<ul class="list-inline text-right footer-links">
 
 {%- if site.social-network-links.rss -%}
   <li class="list-inline-item">
@@ -57,6 +57,18 @@
       </span>
       <span class="sr-only">Telegram</span>
     </a>
+  </li>
+{%- endif -%}
+
+{%- if site.social-network-links.douban -%}
+  <li class="list-inline-item">
+    <a href="https://www.douban.com/people/{{ site.social-network-links.douban }}" title="douban">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-douban fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">douban</span>
+   </a>
   </li>
 {%- endif -%}
   
