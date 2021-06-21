@@ -14,8 +14,8 @@ author: Jingwei·Li
 navbar-links:
   Blogs: "blogs"
   Portfolio:
-    - Art Work: 
     - Photography: "https://unsplash.com/@faylee"
+    - Steam: "https://steamcommunity.com/profiles/76561198090099017/"
   About Me: "aboutme"
 
 # --- Logo --- #
@@ -40,7 +40,7 @@ round-avatar: true
 social-network-links:
   email: "imjingweilee@gmail.com"
   github: FayLeeStudio
-  rss: false
+  rss: ture
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -56,6 +56,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
   douban: 48941856
+
 
 
 # --- General options --- #
@@ -202,6 +203,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-feed
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
