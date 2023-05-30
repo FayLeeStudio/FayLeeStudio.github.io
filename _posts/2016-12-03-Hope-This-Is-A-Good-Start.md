@@ -2,7 +2,7 @@
 layout: post
 title: Hope This Is A Good Start
 subtitle: After watching *Your Name*
-cover-img: /assets/img/cover/hello_world.png
+cover-img: /assets/img/cover/good_start.jpg
 tags: [anime, film]
 ---
 
