@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Hope This Is A Good Start
-subtitle: After watching *Your Name*
+subtitle: After watching "Your Name"
 cover-img: /assets/img/cover/good_start.jpg
-tags: [anime, film]
+tags: [anime, films]
 ---
 
 The first time I watched this film was on September 17, 2016. I watched the piracy version with English subtitles. At that time, I never thought I would be able to see this film on the big screen in China, so I chose to download a pirated copy.

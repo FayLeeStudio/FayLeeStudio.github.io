@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Innovation in Gameplay for Adventure Games
-subtitle: Critical Analysis of “Return of the Obra Dinn”
+subtitle: Critical Analysis of "Return of the Obra Dinn"
 cover-img: /assets/img/cover/return_of_the_obra_dinn.png
-tags: [reviews, game]
+tags: [reviews, games]
 ---
 
 *Return of the Obra Dinn* is a unique detective game. In this game, the player takes the role of an investigator who was asked by the East India company to board the once disappeared ship to find out what actually happened to all missing crew members. With the help of a magic pocket watch, the death scene can be reproduced when the death body of a crew has been found, and the purpose of the player is to match all 60 crew members with their names and to find out the cause of their death.
