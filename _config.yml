@@ -4,7 +4,7 @@
 title: Fay's Tuido
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: A playground built in the wilderness
 
 # Your name to show in the footer
 author: Jingwei·Li
@@ -13,9 +13,8 @@ author: Jingwei·Li
 
 navbar-links:
   Blogs: "blogs"
-  Portfolio:
-    - Photography: "https://unsplash.com/@faylee"
-    - Steam: "https://steamcommunity.com/profiles/76561198090099017/"
+  Photos: "https://unsplash.com/@faylee"
+  Artworks: "https://steamcommunity.com/profiles/76561198090099017/"
   About Me: "aboutme"
 
 # --- Logo --- #
@@ -40,6 +39,8 @@ round-avatar: true
 social-network-links:
   email: "imjingweilee@gmail.com"
   github: FayLeeStudio
+  steam: 76561198090099017
+  itchio: faylee
   rss: ture
 #  reddit: yourname
 #  linkedin: daattali
@@ -50,12 +51,10 @@ social-network-links:
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-  douban: 48941856
 
 
 
@@ -78,15 +77,15 @@ excerpt_length: 50
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#111111"
+navbar-col: " #121212"
 navbar-text-col: "#ffffff"
 navbar-border-col: "#111111"
-page-col: "#191919"
-link-col: "#008AFF"
-hover-col: "#e1a87a"
-footer-col: "#191919"
-footer-text-col: "#ffffff"
-footer-link-col: "#191919"
+page-col: "#212121"
+link-col: "#1db954"
+hover-col: "#1db954"
+footer-col: "#212121"
+footer-text-col: "#b3b3b3"
+footer-link-col: "#1db954"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -197,13 +196,15 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  - screenshot.png
   - docs/
+
+remote_theme: daattali/beautiful-jekyll@5.0.0
 
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
